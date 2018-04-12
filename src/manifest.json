@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-	"name": "Long-click link for private window",
+	"name": "Long-click for private window",
 	"description": "Open links as private windows by clicking and holding links",
    "background": {
       "scripts": ["js/background.js"]
@@ -23,7 +23,7 @@
    ],
     "applications": {
             "gecko": {
-            "id": "Long_Click_Private_Windows",
+            "id": "Long_Click_For_Private_Window_nils@rekow.ch",
             "strict_min_version": "52.0"
         }
     },
@@ -34,10 +34,7 @@
 	"content_security_policy": "script-src 'self'; object-src 'self'",
     "minimum_chrome_version": "22",
 	"permissions": [
-  		"tabs",
-		"downloads",
-		"clipboardWrite",
-		"clipboardRead"
+  		"tabs"
 	],
 	"version": "1.1"
 }

@@ -1,0 +1,62 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: RXAnqvrRQ1UvX4tdjpLiuA==
+SHA1-Digest: synyRFkmjoT75F1NwpwqwNhCR9M=
+SHA256-Digest: pb9PIUiN2AF5HX/0iPKJmscIZcgGhN5nSSxBIS2ASUU=
+
+Name: options.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: lC0fgoP2p5AroQwY6x7NVQ==
+SHA1-Digest: uceLaL6rM58Fgx24IUwSpoH5FVs=
+SHA256-Digest: 9fIntMY8RVdImnWhm5i7IrbhpoiuyHUZf+PdM/f48yo=
+
+Name: css/options.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HPf5zuG5J6yjSwy6HY9jqQ==
+SHA1-Digest: 6BX6OPxKRW+SFDrXzNcvKtiTwho=
+SHA256-Digest: 5C/Jg/BKTGkPV1RcZTb07a6LqHKlphJ63GFHLVNLqO8=
+
+Name: img/icon128.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: hJnafrIuxgUgn4kqaLq/Bg==
+SHA1-Digest: 6Zs7aUsWcNaBGFg4zbVytLAt1Oo=
+SHA256-Digest: aH/TqgBBMhXnBHo7f9KsDah/YXPHQp6gURokwAO+9g8=
+
+Name: img/icon16.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 103CV2Ws3kBk6AAIK+TNBA==
+SHA1-Digest: M2yGEnvodv4Al1U9/VS6jjNijOo=
+SHA256-Digest: 01JUdiy3Z8U+RwkxMsl/e1JusqkzNFx+bK+K8j7WW8k=
+
+Name: img/icon32.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: NFsUOjdp8gx9/yA5rj208g==
+SHA1-Digest: P3VMbbthIEzTODtKPem/Z9hC0co=
+SHA256-Digest: XSvWlJXQvxdZPU5WSdgcEEOAJr3KjPXqkMc4cN0YCYw=
+
+Name: img/icon48.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +whfcRwYNJnPOwDdL5sI0w==
+SHA1-Digest: PIHbm3IwYhmNsfZh2AhKEALQf4c=
+SHA256-Digest: UIn6dJoh6mX6HMlsTMDPrC5wpxZ1b86Sck6ZILIYgio=
+
+Name: js/background.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: oThv6Pa8HDgPwbIF+mJTmA==
+SHA1-Digest: EdhFQidCush2wx8m+e4+TPlRRDQ=
+SHA256-Digest: 4bbTiR4dNSuwo0nPIT5Rl0UDmTlgMiRrrPZ2vOUK+tY=
+
+Name: js/contentscript.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: aGdzQnMvQKvvuiYGtIFH7g==
+SHA1-Digest: PMcx10CyfagEPDMFKctYSeay28Q=
+SHA256-Digest: oQLoBECWHZVy5e2q7IjdAJetY+CPRdW4Cc1oCDuUZwA=
+
+Name: js/options.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: gW4wSSD7SIFGb1vfr9oMgw==
+SHA1-Digest: pQr1A62wGI0OA7Xvl2vFR17ZFzA=
+SHA256-Digest: xENDuGgO78DUgOq+yJF8aUtr1Z5y2wSYuSDxLsJq2Uk=
+
